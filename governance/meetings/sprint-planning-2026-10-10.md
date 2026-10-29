@@ -1,6 +1,7 @@
 # Aether Sprint Planning Meeting
 
 Date: 2026-09-18
+
 Location: Discord
 
 Attending:
@@ -12,4 +13,5 @@ Attending:
 
 ## What's Done
 Continu to describe and split settings (AET-39) in many small tasks to cover more uses cases
+
 Describe a first version of index, channel and update

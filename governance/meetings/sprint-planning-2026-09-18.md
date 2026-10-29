@@ -1,6 +1,7 @@
 # Aether Sprint Planning Meeting
 
 Date: 2026-09-18
+
 Location: Discord
 
 Attending:
@@ -13,4 +14,5 @@ Attending:
 ## What's Done
 
 Review sprint 2, 3 and 4
+
 Create some new tasks for the futur

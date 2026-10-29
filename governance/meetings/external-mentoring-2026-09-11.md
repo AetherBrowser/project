@@ -1,6 +1,7 @@
 # Aether External Mentoring Meeting
 
 Date: 2026-09-11
+
 Location: Teams
 
 Attending:
@@ -13,9 +14,13 @@ Attending:
 
 ## Work presentation
 Corentin:
+
 Nathan:
+
 Mattéo:
+
 Thomas:
+
 Axel:
   - AET-13: Nightly build (in progress)
   - AET-14: Create Release periodically (in progress)

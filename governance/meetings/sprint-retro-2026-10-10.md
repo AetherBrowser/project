@@ -1,6 +1,7 @@
 # Aether Sprint Retro Meeting
 
 Date: 2026-10-10
+
 Location: Discord
 
 Attending:

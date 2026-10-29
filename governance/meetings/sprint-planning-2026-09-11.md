@@ -1,6 +1,7 @@
 # Aether Sprint Planning Meeting
 
 Date: 2026-09-11
+
 Location: Teams
 
 Attending:
@@ -13,5 +14,7 @@ Attending:
 ## What's Done
 
 Create sprint 2, 3 and 4
+
 Assigned tasks for each member
+
 10 points by week, a sprint is aproximatively between 15 and 20 points

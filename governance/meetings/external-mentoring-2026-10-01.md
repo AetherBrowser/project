@@ -1,6 +1,7 @@
 # Aether External Mentoring Meeting
 
 Date: 2026-10-01
+
 Location: Teams
 
 Attending:
@@ -37,7 +38,9 @@ Axel:
 
 ## Remark
 Some late to test due to multiplatform runner missing
+
 Work on coverage app
+
 Draw a class diagramm architecture 
 
 ## Objectives
