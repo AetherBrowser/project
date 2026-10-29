@@ -7,7 +7,9 @@ The Aether Project is about the development and maintenance of an independent we
 The main aether repos are
 
 - https://github.com/AetherBrowser/aether - the code repository
+- https://github.com/AetherBrowser/book - the complete book about aether, build, usage, contribution ...
 - https://github.com/AetherBrowser/aetherbrowser.org - the aetherbrowser.org web site (currently private)
+- https://github.com/AetherBrowser/doc.aetherbrowser.org - the documentation for aether crates and external crates
 - https://github.com/AetherBrowser/project - a repo for tracking the project
 
 ## Project Repo
