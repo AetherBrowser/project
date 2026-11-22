@@ -37,10 +37,5 @@ Attending:
   - Meeting Notes: Update the previous notes with the missing points and write up this meeting.
 
 ## Other Topics Discussed
-
-- **Ad blocker:** no per-site disabling for now; blocking stays global.
-- **CSS:** redundant styles that cancel each other out, across our pages and Servo's, make rendering inconsistent depending on the menu. A shared style guide with reusable components would help, but the refactor is hard to scope and there's no time for it right now.
-- **File upload and downloads:** Servo now uses the native system dialog for file uploads. Downloads and file saving are still not supported: not urgent, but users will ask for it.
 - **Beta feedback:** some sites still struggle to render.
-- **Legal structure:** Axel proposed registering Aether as an official organization to get code-signing certificates for Windows and macOS (Android still an open question).
 - **Obscura:** a new headless browser built for AI agents was discussed.
