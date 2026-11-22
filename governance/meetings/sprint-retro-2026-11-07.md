@@ -28,15 +28,13 @@ Attending:
 - **Video player branches:** pause, play and mute are too intertwined for separate PRs, so this work doesn't match the GitHub breakdown and will end up as one large final branch (smaller than the stream bridge).
 
 ## Action Items for Improvement
-
-- **Axel:** ad blocker PR next week, two weeks at most.
-- **Axel:** next step for the ad blocker: Firefox-style checkboxes per category (e.g. cryptomining, trackers).
-- **Corentin:** render thread and video Player, aiming to have video displaying by the next internal meeting.
-- **Corentin:** look into a shared project memory for AI tooling (vector database via MCP servers) before the meeting with Lucas.
-- **Corentin:** update the previous meeting notes with the missing points and write up this meeting.
-- **Nathan:** test playback speed in the browser, then open the PR.
-- **Thomas:** catch up on the devtools and keep tasks updated along the way.
-- **Matteo:** bookmarks display first, then folder management. The scroll if he gets ahead.
+  - Ad Blocker: Open the pull request next week, two weeks at most. Next step is Firefox-style checkboxes per category (e.g. cryptomining, trackers).
+  - Video Player: Finish the render thread, aiming to have video displaying by the next internal meeting.
+  - Playback Speed: Test it in the browser, then open the pull request.
+  - Devtools: Catch up and keep tasks updated along the way.
+  - Bookmarks: Display first, then folder management. Scroll if ahead.
+  - AI Tooling: Look into a shared project memory (vector database via MCP servers) and if it could be intersting for us before the external team review meeting. Note that it must follow the rules already defined for IA.
+  - Meeting Notes: Update the previous notes with the missing points and write up this meeting.
 
 ## Other Topics Discussed
 
